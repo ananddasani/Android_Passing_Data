@@ -13,7 +13,7 @@ intent.putExtra("KEY", message);
 startActivity(intent);
 ```
 
-#### 1st Activity 
+#### 2nd Activity 
 ```
 //get the activity that started this activity and extract the string
 Intent intent = getIntent();
