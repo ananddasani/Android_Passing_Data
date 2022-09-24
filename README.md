@@ -25,8 +25,6 @@ textView.setText(message);
 
 # App Highlight
 
-<img src="app_images/Pass Data Code.png" width="1000" /><br>
-
-<img src="app_images/Pass Data App1.png" width="300" /><br>
-
-<img src="app_images/Pass Data App2.png" width="300" /><br>
+![Pass Data App1](https://user-images.githubusercontent.com/74413402/192092887-2f9f48b3-10b1-4673-a72c-3b0471624f8e.png)
+![Pass Data App2](https://user-images.githubusercontent.com/74413402/192092889-1164dabb-42e2-471c-9f66-b75c66f29277.png)
+![Pass Data Code](https://user-images.githubusercontent.com/74413402/192092890-a66a25f4-318e-4165-ba88-c6809210f3e7.png)
