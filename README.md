@@ -1,6 +1,9 @@
 # Android_Passing_Data
 An Android App to practice passing the data to other Activities
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
+
 # Code
 
 #### 1st Activity 
